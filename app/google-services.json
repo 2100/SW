@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "215127506270",
+    "firebase_url": "https://loginsignup-87fb8.firebaseio.com",
+    "project_id": "loginsignup-87fb8",
+    "storage_bucket": "loginsignup-87fb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215127506270:android:732f6cd8fdf1ae0d",
+        "android_client_info": {
+          "package_name": "com.app.kc.loginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215127506270-lrv0lvl3vu14ijer3oosftp95qt3m9st.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.kc.loginsignup",
+            "certificate_hash": "1bf2a55d1027e9c6f46e433ff49d4fc122b16fe8"
+          }
+        },
+        {
+          "client_id": "215127506270-mv94qqicrlgm3oureltd4924ijpfbh6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9BlrZooIooYILFDCyfeUfIB09AIOvBeo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215127506270-mv94qqicrlgm3oureltd4924ijpfbh6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
